@@ -1,0 +1,11 @@
+>>> introstring="My name is Lavanya,I am 13 years old."
+>>>words=introString.split()
+>>>
+>>>print(words)
+['My','name','is','Lavanya','I','am','13','years','old.']
+>>>
+>>> def greet(name):
+...   print("Hello,"+name+".How are you?")
+...
+>>>greet("Riya")
+Hello,Riya . How are you?
